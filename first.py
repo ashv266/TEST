@@ -1,4 +1,5 @@
 a=1
 b=2
-ans = a+b
+c=4
+ans = c+a+b
 print ans 
